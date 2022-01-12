@@ -4,3 +4,5 @@ Można tworzyć linki do id elementu poprzez
 <p id="top"></p>
 
 <a href="#top">Link na tej samej stronie do przeniesienia do miejsca paragrafu o id="top"</a>
+
+atrybut target="blank" otwiera stronę w nowej karcie

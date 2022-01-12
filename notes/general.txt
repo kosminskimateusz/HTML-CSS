@@ -1,0 +1,18 @@
+HTML - Hypertext Markup Language
+
+HEAD - information about a page (meta, links, title)
+
+<img src="ścieka obrazka" alt="tekst alternatywny jak nie wyświetli się obrazek.">
+
+darmowe adresy stron z obrazkami:
+
+pixabay.com
+pexels.com
+gratisography.com
+
+ALT + CLICK - multiple coursors
+COMMAND + L - select whole line
+SHIFT + ALT + UP/DOWN - copy line up/down
+ALT + UP/DOWN - move line up/down
+COMMAND + / - line comment
+COMMAND + ENTER - new line
