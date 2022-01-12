@@ -1,0 +1,18 @@
+<table>
+  <tr>              (First Row)
+    <th>            (Header)
+      Header
+    </th>
+    <th>            (Header)
+      Header
+    </th>
+    <th>            (Header)
+      Header
+    </th>
+  </tr>
+  <tr>              (Second Row)
+    <td>john</td>   (Table Data)
+    <td>peter</td>  (Table Data)
+    <td>sara</td>   (Table Data)
+  </tr>
+</table>

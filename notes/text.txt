@@ -1,0 +1,14 @@
+Index górny
+<sup></sup>
+Index dolny
+<sub></sub>
+
+Bold
+<strong></strong>
+
+Italic
+<em></em>
+
+Special characters
+&copy; &radic; &darr; &reg;
+etc.

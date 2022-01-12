@@ -1,0 +1,7 @@
+<form action="">
+  <label for="name">First Name</label> <!-- Przy kliknięciu na Label przenosi nas do wypełniania inputa o id "name"-->
+  <input type="text" name="name" id="name">
+  <br />
+  <input type="submit">
+  <!-- <button type="submit">Submit</button> -->
+</form>

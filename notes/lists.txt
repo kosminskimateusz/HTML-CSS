@@ -1,0 +1,41 @@
+Lists:
+Unodrered list: (np. Używane do navbara)
+<ul>
+    <li>One</li>
+    <li>Two</li>
+    <li>Three</li>
+    <li>Four</li>
+    <li>Five</li>
+</ul>
+
+Ordered list:
+<ol>
+  Ordered list:
+  <li>One</li>
+  <li>Two</li>
+  <li>Three</li>
+  <li>Four</li>
+  <li>Five</li>
+</ol>
+
+Nested list:
+<ul>
+  Nested list:
+  <li>
+    One
+    <ol>
+      <li>html</li>
+      <li>css</li>
+    </ol>
+  </li>
+  <li>
+    Two
+    <ol>
+      <li>js</li>
+      <li>postgresql</li>
+    </ol>
+  </li>
+  <li>Three</li>
+  <li>Four</li>
+  <li>Five</li>
+</ul>
