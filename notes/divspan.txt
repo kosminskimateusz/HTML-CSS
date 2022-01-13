@@ -1,0 +1,5 @@
+<div>It's a block element</div>
+it always go to new line
+
+<span>It's an inline element</span>
+
